@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222 207" width="25" height="25">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #808080 } 
+		.txt1 { font-size: 130px;fill: #ffffff;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<path id="Background" class="shp0" d="M112 197C54.49 197 8 154.54 8 102C8 49.47 54.49 7 112 7C169.51 7 216 49.47 216 102C216 154.54 169.51 197 112 197Z" />
+	<text id="?" style="transform: matrix(1,0,0,1,79.5,150.5)" >
+		<tspan x="0" y="0" class="txt1">?</tspan>
+	</text>
+</svg>

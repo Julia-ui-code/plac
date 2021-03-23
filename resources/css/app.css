@@ -1,0 +1,72 @@
+.login{
+    font-size: medium;
+  }
+  .caixas{
+    border-radius: 20px;
+    margin-top: 3px;
+    width: 100%;
+  }
+  .botao{
+    width: 52%;
+    background-color: #1C40C3;
+    border-radius: 20px;
+    font-size: medium;
+    display: inline-block;
+  }
+  .esq{
+    color: #1C40C3;
+    display: inline-block;
+  }
+  input[type="email"]::placeholder {  
+    text-align: center; 
+  } 
+  input[type="password"]::placeholder {  
+    text-align: center; 
+  } 
+  .redondo{
+    border-radius: 20px;
+  }
+  select{
+    appearance: none;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+    width: 100%;
+    border: solid lightgrey 1px;
+    height: 40px;
+    background: url(../img/seta.svg) no-repeat center right #FFF;
+  }
+  .footer{
+    position:absolute;
+    bottom:0;
+  }
+  .botao_resg{
+    width: 48%;
+    background-color: #1C40C3;
+    border-radius: 20px;
+    font-size: medium;
+    display: inline-block;
+  }
+  .menuzin{
+    text-decoration:none; 
+    color: black;
+  }
+  .menuzin:link, .menuzin:hover{
+    text-decoration:none; 
+    color: black;
+  }
+  .img{
+    margin-left: -100px;
+    margin-bottom: -20px;
+    margin-top: -5px;
+  }
+  .nome{
+    margin-bottom: -20px;
+    font-size: medium;
+  }
+  .img_usuario{
+    margin-top: -10px;
+  }
+  .img_logout{
+    margin-top: -10px;
+    margin-right: -20px;
+  }
