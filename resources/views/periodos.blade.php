@@ -134,7 +134,7 @@ a.disabled {
     @else
     <a href="/periodos/pdf/{{$id_periodo}}" style="font-weight:large;position: absolute;left:10%; margin-top:10px;">Gerar PDF</a>
     @endif
-    <a href="mailto:juliaabreuaureliano19@gmail.com?body=Retorne%20para%20esse%20email:%20{{Auth::user()->email}}" target="_blank"  style="font-weight:large;position: absolute;left:20%; margin-top:10px;">Enviar por email</a>
+    <a href="mailto:?body=Retorne%20para%20esse%20email:%20{{Auth::user()->email}}" target="_blank"  style="font-weight:large;position: absolute;left:20%; margin-top:10px;">Enviar por email</a>
     <button type="submit" class="btn" style="color:white; font-weight:medium; background-color: #1C40C3;border-radius: 20px; margin-top:10px; position: absolute;right:10%;">Salvar</button>
     </div>
 </form>
